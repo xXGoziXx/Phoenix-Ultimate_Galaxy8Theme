@@ -1,0 +1,22 @@
+CAUTION: This is for Windows 8 and later. It is not suitable for Windows 7. Do not try it for Windows 7 unless you know what you're doing.
+         You have been warned!
+
+Instructions:
+1. Open the "UxStyle Patcher for Windows 8 or later" folder.
+   Install the application there.
+
+2. Once they have finished installing Place the folder "Ultimate" into -> C:\Windows\Resources\Themes
+   (where C: is the drive your local disk is on)
+
+   For those that are new to placing files in system directories:
+   Copy "C:\Windows\Resources\Themes" (not including the inverted commas.. obviously :D).
+   Open  a new File Explorer window and paste what was copied into the address bar.
+   Then copy the "Ultimate" folder (again ...not including the inverted commas :D) from the downloaded folder and paste it in the new File          Explorer window.
+
+3. Then open the "Phoenix Ultimate - Galaxy" (from the downloaded folder) 
+
+4. Enjoy the awesome looking theme!!
+
+
+
+Copyright © Phoenix Ultimate inc.
